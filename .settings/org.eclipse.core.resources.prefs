@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/favorites/comm/config/RedisConfig.java=UTF-8
+encoding//src/main/java/com/favorites/comm/filter/SecurityFilter.java=UTF-8
+encoding//src/main/java/com/favorites/domain/result/ExceptionMsg.java=UTF-8
+encoding//src/main/java/com/favorites/domain/result/Response.java=UTF-8
+encoding//src/main/java/com/favorites/schedule/ScheduledTasks.java=UTF-8
+encoding//src/main/java/com/favorites/service/impl/CollectServiceImpl.java=UTF-8
+encoding//src/main/java/com/favorites/utils/DateUtils.java=UTF-8
+encoding//src/main/java/com/favorites/utils/HtmlUtil.java=UTF-8
+encoding//src/main/java/com/favorites/web/BaseController.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/application-dev.properties=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/main/resources/templates/collect/search.html=UTF-8
+encoding//src/main/resources/templates/tool.html=UTF-8
+encoding/<project>=UTF-8
